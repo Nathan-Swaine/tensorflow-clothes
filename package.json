@@ -1,0 +1,45 @@
+{
+  "name": "tensorflow-clothes",
+  "version": "0.0.1",
+  "description": "a tensorflow package, written in python. Designed to categorised clothing into categories ",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "py tf_clothes.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-Swaine/tensorflow-clothes.git"
+  },
+  "keywords": [
+    "tensorflow",
+    "python",
+    "machine",
+    "learning"
+  ],
+  "author": "Nathanswaine18@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathan-Swaine/tensorflow-clothes/issues"
+  },
+  "homepage": "https://github.com/Nathan-Swaine/tensorflow-clothes#readme",
+  "dependencies": {
+    "express": "3.0.5",
+    "ejs": "*"
+  }
+}
+
+
+
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.5",
+    "ejs": "*"
+  }
+}
